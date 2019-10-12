@@ -1,0 +1,109 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(sfondo.jpg) ;
+    text-align: center;
+}
+
+#titolo{
+    color: red;
+    font-family: "Pristina";
+    font-size: 70;
+    
+}
+
+#menu{
+    padding: 5;
+    color:red;
+    text-align: center;
+    background-color: aqua;
+    font-size: 175%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+A:LINK {
+    color : Blue;
+    text-decoration: none;
+   }
+   
+A:VISITED {
+    color : rgb(255, 123, 0);
+    text-decoration: none;
+   }
+   
+A:HOVER {
+    color :rgb(255, 123, 0);
+    text-decoration : none;
+   }
+   
+A:ACTIVE {
+    color :rgb(255, 123, 0);
+    text-decoration: none;
+   }
+
+#frase_celebre{
+    color: rgb(25, 0, 255);
+    font-size: 22px;
+    font-family: "Pristina";
+}
+
+#titolo_biografia{
+    font-size: 70;
+    font-family: "Pristina";
+    color:rgb(0, 255, 136);
+}
+
+#testo_biografia{
+    font-size: 30;
+}
+
+#titolo_secretum{
+    font-size: 70;
+    color: rgb(230, 127 , 20);
+    font-family: "Pristina";
+}
+
+#testo_secretum{
+    font-size: 25;
+}
+
+#titolo_canzoniere{
+    font-size: 70;
+    color: rgb(0, 250, 133);
+    font-family: "pristina";
+}
+
+#testo_canzoniere{
+    font-size: 25;
+}
+
+#titolo_fonti{
+    font-size: 40;
+    color: rgb(190, 204, 0);
+    font-family: "Pristina";
+}
+
+#testo_fonti{
+    font-size:20;
+}
+
+#titolo_proemio{
+    color: rgb(139, 30, 30);
+}
+
+#poesia{
+    font-family: "pristina";
+    font-size: 25;
+}
+
+#titolo_parafrasi{
+    color: red;
+}
+
+#parafrasi{
+    font-size: 20;
+}
+
+#frase_finale{
+    font-size: 20;
+    color: red;
+}
